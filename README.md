@@ -1,2 +1,3 @@
 # Coderdojo Web
-Sito per il corso del coderdojo disi percorso web
+
+Website example to use during coderdojo disi lessons, web course
